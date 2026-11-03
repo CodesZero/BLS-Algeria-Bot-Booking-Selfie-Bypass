@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:01411C,100:FFFFFF&height=200&section=header&text=BLS%20Algeria%20SELFIE%20BYPASS&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Real-Time%20Appointment%20Automation%20%2B%20Selfie%20Verification%20Bypass&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
@@ -373,7 +373,7 @@ ADMIN_IDS=123456789,987654321
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OnlineUnknow)
 [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/onlineunknowns)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201286669272)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201200655872)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OnlineUnknow)
 
 <br/>
